@@ -1,2 +1,2 @@
 # spring-aop
-A source code exporing various aop modules supported by Spring 4.0
+A source code exploring various aop features supported by Spring 4.0
