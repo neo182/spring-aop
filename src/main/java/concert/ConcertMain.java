@@ -8,7 +8,7 @@ public class ConcertMain {
 		@SuppressWarnings("resource")
 		ApplicationContext context = new AnnotationConfigApplicationContext(ConcertConfig.class);
 		Performance performance = (Performance) context.getBean("performance");
-		performance.perform();
+		performance.perform("Good");
 	}
 
 }
